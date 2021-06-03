@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A shorte admonition or warning, vpon the detestable treason vvherevvith Sir VVilliam Stanley and Rovvland Yorke haue betraied and deliuered for monie vnto the Spaniards, the towne of Deuenter, and the sconce of Zutphen. Translated into English by C.C.</title>
+            <title>Shorte admonition or warning, upon the detestable treason wherewith Sir William Stanley and Rowland Yorke have betraied and delivered for monie unto the Spaniards, the towne of Deventer, and the sconce of Zutphen.</title>
+            <author>Prouninck, Gerard, d. 1610.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15961</idno><idno type="EEBO-CITATION">99841511</idno>
+  <idno type="VID">176903</idno>
+  <idno type="EEBO-PROQUEST">2248579403</idno>
+  <idno type="STC">STC 23228.7</idno>
+  <idno type="STC">ESTC S105785</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841511e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176903)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 717:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A shorte admonition or warning, vpon the detestable treason vvherevvith Sir VVilliam Stanley and Rovvland Yorke haue betraied and deliuered for monie vnto the Spaniards, the towne of Deuenter, and the sconce of Zutphen. Translated into English by C.C.</title>
+                  <title>Shorte admonition or warning, upon the detestable treason wherewith Sir William Stanley and Rowland Yorke have betraied and delivered for monie unto the Spaniards, the towne of Deventer, and the sconce of Zutphen.</title>
+                  <author>Prouninck, Gerard, d. 1610.</author>
+                  <author>C. C., fl. 1587.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Iones, according to the Dutch copie first printed at Vtrecht by Iohn Cornelissoon, ordinarie sworne printer to his Excellencie, with consent of the counsell of the said towne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Anno 1587.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Gerard Prouninck by STC.</note>
+                  <note>Woodcut portrait on title page.</note>
+                  <note>"Urges the Dutch people not to blame the entire English nation for the treachery of two men."--Folger Shakespeare Library Catalog.</note>
+                  <note>Identified as STC 23228a on UMI microfilm.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stanley, William, --  Sir, 1548-1630.</term>
+               <term type="personal_name">York, Rowland, d. 1588.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176903:1"/>
+            <pb facs="tcp:176903:1"/>
+            <p>A short Admonition or warning, Vpon the detestable Treason wherewith Sir VVilliam Stanley and Rowland Yorke haue betraied and deliuered for monie vnto the Spaniards, the Towne of Deuenter, and the Sconce of Zutphen.</p>
+            <p>
+               <hi>Translated into English by</hi> C. C.</p>
+            <figure>
+               <figDesc>portrait of a man in armor</figDesc>
+            </figure>
+            <p>At London printed by Ri<g ref="char:EOLhyphen"/>chard Iones, according to the Dutch copie first printed at Vtrecht by Iohn Cornelissoon, ordinarie sworne Printer to his Excellencie, with consent of the counsell of the said Towne.</p>
+            <p>Anno 1587.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176903:2"/>
+            <pb facs="tcp:176903:2"/>
+            <head>A short admonition or war<g ref="char:EOLhyphen"/>ning vpon the detestable treason wherwith sir Wil<g ref="char:EOLhyphen"/>liam Stanley and Rowland Yorke haue betraied and deliuered for money vnto the Spaniards, the towne of Deuenter, and the Sconce of Zutphen.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a common saieng, that loue co<g ref="char:EOLhyphen"/>uereth and turneth all things to the best, euen as hatred (to the contrarie) taketh &amp; construeth all things to the woorst. What the Quéene of England hath latelie on these parts doone for vs, wherein also my lord the Erle of Leicester was pleased in his owne person to be imploied for our sakes, is sufficientlie knowne to all men of any iudgement. If the same hath bin doone vnto the thankefull or to the vngratefull, to welwillers, or to dis<g ref="char:EOLhyphen"/>semblers, may be perceiued out of the spe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches of them that are dailie talking of the treason doone by Colonell <hi>Stanley</hi> within <hi>Deuenter,</hi> and Capteine <hi>Yorke</hi> in the Sconce be<g ref="char:EOLhyphen"/>fore <hi>Zutphen.</hi> But those that talke of it indifferentlie, will not nor cannot laye the blame on the English nation, but to acknowledge, that one man ought not to beare the blame of an others fault: much lesse then a whole king<g ref="char:EOLhyphen"/>dome beare the blame for the fault of one, two, or three traitors.</p>
+            <p>If that might be so, then ought we not to trust anie one of the Lords of the Lowe countries, among the which, such treacherous vngodlie traitors haue beene found: as in our time, the Lord of <hi>Ville,</hi> who did most lamentablie betraie the Towne of <hi>Groeninghen,</hi> and caused to be murthered the most vertuous Burghma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ster that he could find in the whole Towne, which procured these bloudie ciuill wars, for our punishment to happen amongst vs.</p>
+            <p>Also in Flanders the Prince of <hi>Chimay,</hi> who profes<g ref="char:EOLhyphen"/>sing the reformed religion, yea comming from the Lords Supper, did not onelie betraie and deliuer into the hands
+<pb facs="tcp:176903:3"/> of the enimie the Towne of <hi>Bridges,</hi> but also the whole go<g ref="char:EOLhyphen"/>uernment of Flanders. And before him the Lord of <hi>Bours,</hi> who hath betraied &amp; deliuered <hi>Mechelen:</hi> the Lord of <hi>Flo<g ref="char:EOLhyphen"/>rence Phillip Ville Lamotte, Graueling.</hi> The Marquesse of <hi>Berghen,</hi> the castell of <hi>Wowe:</hi> the Lord of <hi>Fresyn, Breda.</hi> We omit the Generall that tooke in <hi>Brussell</hi> treacherous<g ref="char:EOLhyphen"/>lie, and the Lowe countrie Collonell that would haue be<g ref="char:EOLhyphen"/>traied <hi>Berghen op Soome,</hi> but through his vnskilfulnesse, could not deliuer it, with innumerable others too long to be rehearsed. With which faults we neuer would, nor de<g ref="char:EOLhyphen"/>sired to charge the nation of the Lowe countries: neither Princes, nor prouinces, who receiued and placed them (notwithstanding all faithfull warning) to be Gouer<g ref="char:EOLhyphen"/>nours.</p>
+            <p>But héere may it be knowne of what nature these good people be, which for the fault of <hi>Stanley</hi> and <hi>Yorke,</hi> cause the whole English nation to be suspected. But if they be particular persons, they erre either by ignorance, or else they themselues bearing a traiterous minde, would ra<g ref="char:EOLhyphen"/>ther haue the Spaniards then the Englishmen. If they be publike persons, either they are of the same condition, or els would rather remaine maisters themselues. How so euer it be, they shew that they beare neither faith nor loue vnto hir Maiestie, his Excellencie, nor to the people of England, séeing they turne all things to the woorst, to the great preiudice of the guiltlesse.</p>
+            <p>If there had not béene great spite and iniurious high minde borne both to hir Maiestie and his Excellencie, in steed of thankefulnesse, and namelie by those that should haue béene a great while agoe vnder the yoake of the eni<g ref="char:EOLhyphen"/>mies, if the Almightie GOD had not bent the heart of hir sacred Maiestie to assist vs. Which soundeth euen thus, as if wee would scorne at all Princes and Potentates, when as wee haue vsed their helpe to succour vs in our distresse.</p>
+            <p>Kings and Princes which in our affaires and matters
+<pb facs="tcp:176903:3"/> past, haue vndertaken to venter heerein their monie and subiects, ought not by such vniust censure to bee displeased, and thereby prouoked to alter their good meaning. It may be thought bad inough, that when sir <hi>Phillip Sidney</hi> hath on these parts shed his blood, and lost his life, and an in<g ref="char:EOLhyphen"/>numerable number of English Souldiors, loste their liues and perished for want: Also certeine summes of money was brought out of England hether, and consumed: and yet notwithstanding, wee stand still in need of further helpe. If then I saye we should enter into such dealings, wee erre greatlie, and declare by our vnthankfulnesse, that (not onelie) wee doo not desire anye further aide, but also determine to recompense the great good and vnspeake<g ref="char:EOLhyphen"/>able pleasures past and done vnto vs with méere vnthank<g ref="char:EOLhyphen"/>fulnesse.</p>
+            <p>The English Lordes and Gentlemen haue béene con<g ref="char:EOLhyphen"/>uersant among vs with all freendlinesse, courtesies, and good example, they haue little regarded to venter their bo<g ref="char:EOLhyphen"/>dies and lines for vs, as for their owne natiue countrie, inhabitants, and kindered.</p>
+            <p>They haue neither desired of vs lande or liuing, Lord<g ref="char:EOLhyphen"/>ships or iurisdictions, but to the contrarie, haue often<g ref="char:EOLhyphen"/>times declared, that if they maye bring to passe to rid these countreis of Spanish tyrannie, and made with vs an euerlasting couenant, to aide, helpe, and to defend each other (as themselues) that then they should desire no greater blisse of the Almightie God, nor of vs anye other thankefulnesse or recompence.</p>
+            <p>Wee haue tried and had experience in our countries, aswell of <hi>Spanish, French, Scottish, Italian, Hungari<g ref="char:EOLhyphen"/>ans, Polanders, Highdutch, Wallons,</hi> yea, almoste all kinde of Nations: their tyrannie, vnfaithfulnesse, false<g ref="char:EOLhyphen"/>hood, droonkennesse, whooredome, forceing of women, rauishing of yoonge maidens, vnnaturall and intolle<g ref="char:EOLhyphen"/>rable viciousnesse, ambition, and rapines without cea<g ref="char:EOLhyphen"/>sing.</p>
+            <pb facs="tcp:176903:4"/>
+            <p>Wherefore being of some tyrannised, of others deceiued, we are iustlie fallen from them, and conuerting our selues to a godlie Christian Princesse. Yea, a Princesse, which when wee were reiected and forsaken of other Kings and Potentates, hath not onelie sent to our aide and succour, Earles Lordes, Gentlemen and Souldiers, of whose mo<g ref="char:EOLhyphen"/>destie, sobrietie, vertue, and freendlie conuersation, we are to yeeld thanks vnto aboue all other nations, but also hath ordeined such a Prince for our gouernour, as none hath béene hithe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to knowne in these parts to excell him, in god<g ref="char:EOLhyphen"/>linesse, vertue, righteousnesse, fréendlinesse, liberalitie, cour<g ref="char:EOLhyphen"/>tesie, and kindlinesse. Who hath also declared in euerie place where he came, that he wisheth no other pleasure of his age, then that in dooing the worke of his Lord GOD faithfullie, he might assure and seale vnto vs the freedom of our lands and consciences, against his and our enimies, with his owne bloud. Euen as all those that haue beene in the field with him, must confesse with vs, that they neuer sawe him merrier and better disposed, then when he might come in the sight of his enimie, yea which is more, when as some Lordes were somewhat dismaied at the approching of the en<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mie, which hee vtterlie disliking, and shewing himselfe to be highlie displeased, would aske them this que<g ref="char:EOLhyphen"/>stion: <hi>If then they thought to liue heere for euer.</hi>
+            </p>
+            <p>Hir Maiestie thus hauing sent vnto vs such a Prince, witnessing therby, how greatlie shée dooth loue &amp; esteeme of vs, &amp; we on the other part, hauing receiued such innumera<g ref="char:EOLhyphen"/>ble &amp; vnestimable benefits, &amp; we yet (neuertheles) standing still in great need of the continuance therof, why should we then either doo vnto hir such vnreasonable and detestable wrong, or once offer, or suffer it to be doone or offered, in charging the English nation with the fault of one or two Traitors. And if we charge them therewith, what should we declare thereby, otherwise then that we mind to depart from hir, reiect hir aide, and reward the great pleasure and comfort doone vnto vs, with displeasure and discourtesie.
+<pb facs="tcp:176903:4"/> Finallie, if we would prouoke hir Maiesties displeasure a<g ref="char:EOLhyphen"/>gainst vs, it is euen like as if we should couet to be led like Buffes by the nose, from hir bountifulnes vnder the Spa<g ref="char:EOLhyphen"/>nish tyrannie, from hir godlinesse into the vngodlie papi<g ref="char:EOLhyphen"/>strie, and to be driuen vnder the yooke, like as a people vn<g ref="char:EOLhyphen"/>worthie, vnhappie, and most slauish kind of creatures.</p>
+            <p>Some say that in England manie Traitors are puni<g ref="char:EOLhyphen"/>shed, whose quarters are to be seene round about London in great number. But would to God there were in other places moe Londons, about the which might be seene the quarters of the traitors, which in other places escape their deserued punishment: then should it be seene and knowne, that the Spanish Duckets and Pistolets, are of as great force in other places as in England. Treason is verie bad euerie where, but farre woorsse where it is not punished: the standing quarters in England shew Gods blessing vp<g ref="char:EOLhyphen"/>on that nation, who dooth reueale them, and the iustice of the countrie that doth punish them. But where some times they stand not abroad in shew, betokeneth Gods cursse, and the countrie sleeping or iustice oppr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed.</p>
+            <p>It is hard and dangerous to practise secret Treason in England against the Queene, but most easie and without danger against the state where manie heads gouerne. For, be it so that the King of Spaine would make war on these countries with traitors, what need were it for him to p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t his secret fréends in danger, seeing that the greatest seruice they could doo vnto him, should be partlie in shortening the deliuered vse of the souereigne power, which is aboue all things most needfull in the handling of our matters, part<g ref="char:EOLhyphen"/>lie in the seuering of the resolutions, slacknesse, and great number of reports, in prolonging of executions, all which they could or might cloake and colour with faire trimmed fauourable pretexts and protestations of our priuileges, which otherwise should bee vtterlie vnpossible to bee ob<g ref="char:EOLhyphen"/>teined.</p>
+            <p>But it is the papists money, whereby manie people are
+<pb facs="tcp:176903:5"/> deceiued, and sedcued to vndertake such dangerous at<g ref="char:EOLhyphen"/>tempts, though the papists themselues are not to boast of anye such vngodlie déeds, shewing thereby their kind, that they haue the Diuell to their father, who from the begin<g ref="char:EOLhyphen"/>ning hath béene a lier and a murtherer.</p>
+            <p>And as touching the faithfull, they are to impute all this to the prouidence and appointment of God, who suffe<g ref="char:EOLhyphen"/>reth such things to happen for a better meane to stirre vp our slumbring mindes, to take the matter in hande with greater and more feruent zeale, and to praye and beseech the most highest God, that it may please him to blesse vs in such sort in these countries, in the disclosing of such treche<g ref="char:EOLhyphen"/>rie, as he hath blessed the Queene of England before our eies: and to grant vs at last, (for asmuch as he ordeineth all kingdomes and gouernements) that such a ver<g ref="char:EOLhyphen"/>tuous, godlie, and blessed Princesse, may haue the gouernment ouer vs. Whom God long pre<g ref="char:EOLhyphen"/>serue to the vnspeakeable comfort of all afflicted Christians. </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ These bookes are to be sold at the signe of the Gunne, neere vnto the little North doore of S. Paules church.</p>
+            <pb facs="tcp:176903:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
